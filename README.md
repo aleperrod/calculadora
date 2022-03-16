@@ -1,21 +1,21 @@
-#Calculadora Simples
+# Calculadora Simples
 
 Calculadora com as operações básicas.
 
-##Front End
+## Front End
 
 Layout componentizado com React.
 
-##Back End
+## Back End
 
 Classes e funções com as operações e funcionalidades básicas.
 
-Bibliotecas
+## Bibliotecas
 
 React
 
-###Mão na Massa!
+### Mão na Massa!
 
-####Clone este repositório
+#### Clone este repositório
 
 > git clone https://github.com/aleperrod/calculadora.git

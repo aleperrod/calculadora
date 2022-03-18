@@ -1,7 +1,9 @@
 import React from "react"
 import './Display.css'
 
-export default props =>
+const Display = props =>
     <div className="display">
         {props.value}
     </div>
+
+export default Display
